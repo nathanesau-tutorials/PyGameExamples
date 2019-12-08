@@ -1,3 +1,3 @@
 # Maze Runner
 
-![](screenshots/maze_runner.png)
+![](screenshots/maze_runner.PNG)

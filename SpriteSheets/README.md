@@ -1,3 +1,3 @@
 # Sprite Sheets
 
-![](screenshots/sprite_sheets.png)
+![](screenshots/sprite_sheets.PNG)

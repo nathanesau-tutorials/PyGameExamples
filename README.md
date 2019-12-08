@@ -2,7 +2,7 @@
 
 This repository contains PyGame examples.
 
-Some of the examples are originally from [here](http://programarcadegames.com/)
+Some of the examples are originally from [here](http://programarcadegames.com/).
 
 # Running the games
 
